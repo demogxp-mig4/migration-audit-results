@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-terraform` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:32:55.403Z` | ✅ Verified | Created and verified on target. |
+| `terraform` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:32:55.403Z` | ✅ Verified | Transferred repository "terraform" via GitHub Enterprise Importer (GEI). |

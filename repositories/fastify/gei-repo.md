@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-fastify` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:06:33.716Z` | ✅ Verified | Created and verified on target. |
+| `fastify` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:06:33.716Z` | ✅ Verified | Transferred repository "fastify" via GitHub Enterprise Importer (GEI). |

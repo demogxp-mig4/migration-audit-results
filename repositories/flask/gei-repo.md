@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-flask` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:27.701Z` | ✅ Verified | Created and verified on target. |
+| `flask` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:27.701Z` | ✅ Verified | Transferred repository "flask" via GitHub Enterprise Importer (GEI). |

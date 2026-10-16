@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-ghec-content-filler` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:39:57.339Z` | ✅ Verified | Created and verified on target. |
+| `ghec-content-filler` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:39:57.339Z` | ✅ Verified | Transferred repository "ghec-content-filler" via GitHub Enterprise Importer (GEI). |

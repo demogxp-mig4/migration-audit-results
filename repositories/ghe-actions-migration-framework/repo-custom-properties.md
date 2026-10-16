@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `ghe-actions-migration-framework` | `custom-property-values` | `update` | ✅ succeeded | `2026-10-16T03:20:36.874Z` | ✅ Verified | Updating 1 custom property value(s) (open_source) on ghe-actions-migration-framework |
+| `ghe-actions-migration-framework` | `custom-property-values` | `update` | ✅ succeeded | `2026-10-16T03:20:36.874Z` | ✅ Verified | Updated 1 custom property value(s) (open_source) on ghe-actions-migration-framework |

@@ -5,7 +5,7 @@
 > **Status:** ✅ Succeeded  
 > **Source Repository:** `demo`  
 > **Target Repository:** `demo`  
-> **Duration:** 510.4s (510402ms)  
+> **Duration:** 512.4s (512440ms)  
 > **Verified:** Yes (0 Discrepancies)  
 
 ---
@@ -24,12 +24,15 @@
 | `rulesets` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/rulesets.md) |
 | `branch-protection` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/branch-protection.md) |
 | `post-migration-codeowners` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/post-migration-codeowners.md) |
-| `security` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/security.md) |
+| `security` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 2.0s | [View Items](../repositories/demo/security.md) |
 | `deploy-keys` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/deploy-keys.md) |
 | `collaborators` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/collaborators.md) |
 | `lfs` | ✅ complete | 2 | 2 | 0 | 0 | 0 | 39.5s | [View Items](../repositories/demo/lfs.md) |
 | `autolinks` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/autolinks.md) |
 | `discussions` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/discussions.md) |
+| `releases` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/releases.md) |
+| `issues` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/issues.md) |
+| `pull-requests` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/demo/pull-requests.md) |
 
 ---
 
@@ -53,6 +56,9 @@
 | `lfs` | ✅ Completed | Executed cleanly (2 items) |
 | `autolinks` | ⏭️ Skipped | No applicable resources in source repository |
 | `discussions` | ⏭️ Skipped | No applicable resources in source repository |
+| `releases` | ⏭️ Skipped | No applicable resources in source repository |
+| `issues` | ⏭️ Skipped | No applicable resources in source repository |
+| `pull-requests` | ⏭️ Skipped | No applicable resources in source repository |
 
 ---
 

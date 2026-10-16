@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-nest` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:46:18.186Z` | ✅ Verified | Created and verified on target. |
+| `nest` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:46:18.186Z` | ✅ Verified | Transferred repository "nest" via GitHub Enterprise Importer (GEI). |

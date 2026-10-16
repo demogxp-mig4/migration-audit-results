@@ -30,6 +30,9 @@
 | `lfs` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/ghec-content-filler/lfs.md) |
 | `autolinks` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/ghec-content-filler/autolinks.md) |
 | `discussions` | ✅ complete | 1 | 1 | 0 | 0 | 0 | 0.9s | [View Items](../repositories/ghec-content-filler/discussions.md) |
+| `releases` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/ghec-content-filler/releases.md) |
+| `issues` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/ghec-content-filler/issues.md) |
+| `pull-requests` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/ghec-content-filler/pull-requests.md) |
 
 ---
 
@@ -53,6 +56,9 @@
 | `lfs` | ⏭️ Skipped | No applicable resources in source repository |
 | `autolinks` | ✅ Completed | Executed cleanly (1 item) |
 | `discussions` | ✅ Completed | Executed cleanly (1 item) |
+| `releases` | ⏭️ Skipped | No applicable resources in source repository |
+| `issues` | ⏭️ Skipped | No applicable resources in source repository |
+| `pull-requests` | ⏭️ Skipped | No applicable resources in source repository |
 
 ---
 

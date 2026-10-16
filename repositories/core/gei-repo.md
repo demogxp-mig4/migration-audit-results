@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-core` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:33:33.617Z` | ✅ Verified | Created and verified on target. |
+| `core` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:33:33.617Z` | ✅ Verified | Transferred repository "core" via GitHub Enterprise Importer (GEI). |

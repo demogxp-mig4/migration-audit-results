@@ -30,6 +30,9 @@
 | `lfs` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/lfs.md) |
 | `autolinks` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/autolinks.md) |
 | `discussions` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/discussions.md) |
+| `releases` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/releases.md) |
+| `issues` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/issues.md) |
+| `pull-requests` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/express/pull-requests.md) |
 
 ---
 
@@ -53,6 +56,9 @@
 | `lfs` | ⏭️ Skipped | No applicable resources in source repository |
 | `autolinks` | ⏭️ Skipped | No applicable resources in source repository |
 | `discussions` | ⏭️ Skipped | No applicable resources in source repository |
+| `releases` | ⏭️ Skipped | No applicable resources in source repository |
+| `issues` | ⏭️ Skipped | No applicable resources in source repository |
+| `pull-requests` | ⏭️ Skipped | No applicable resources in source repository |
 
 ---
 

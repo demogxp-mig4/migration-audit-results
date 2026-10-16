@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/ghe-actions-migration-framework` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:20:36.109Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "internal" |
+| `ghe-actions-migration-framework` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:20:36.109Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "internal" |

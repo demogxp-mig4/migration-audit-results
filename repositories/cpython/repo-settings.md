@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/cpython` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:03:58.100Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.python.org" |
+| `cpython` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:03:58.100Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.python.org" |

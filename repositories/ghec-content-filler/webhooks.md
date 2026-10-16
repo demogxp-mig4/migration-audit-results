@@ -29,4 +29,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `https://migration-demo.invalid/migration-demo-1361857985/repo` | `webhook` | `update` | ✅ succeeded | `2026-10-16T03:40:07.506Z` | ✅ Verified | Reconciling webhook configuration for "https://migration-demo.invalid/migration-demo-1361857985/repo" |
+| `https://migration-demo.invalid/migration-demo-1361857985/repo` | `webhook` | `update` | ✅ succeeded | `2026-10-16T03:40:07.506Z` | ✅ Verified | Reconciled webhook configuration for "https://migration-demo.invalid/migration-demo-1361857985/repo" |

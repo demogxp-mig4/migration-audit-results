@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/juice-shop` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:55:59.005Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://owasp-juice.shop" |
+| `juice-shop` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:55:59.005Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://owasp-juice.shop" |

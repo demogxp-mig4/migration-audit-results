@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `mirror-fallback-vite` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:54.602Z` | ✅ Verified | Created and verified on target. |
+| `vite` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:54.602Z` | ✅ Verified | Transferred repository "vite" via fallback Git mirror-push after GEI archive generation failure; metadata rehydrated via sidecar modules. |

@@ -30,6 +30,9 @@
 | `lfs` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/lfs.md) |
 | `autolinks` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/autolinks.md) |
 | `discussions` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/discussions.md) |
+| `releases` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/releases.md) |
+| `issues` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/issues.md) |
+| `pull-requests` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/django/pull-requests.md) |
 
 ---
 
@@ -53,6 +56,9 @@
 | `lfs` | ⏭️ Skipped | No applicable resources in source repository |
 | `autolinks` | ⏭️ Skipped | No applicable resources in source repository |
 | `discussions` | ⏭️ Skipped | No applicable resources in source repository |
+| `releases` | ⏭️ Skipped | No applicable resources in source repository |
+| `issues` | ⏭️ Skipped | No applicable resources in source repository |
+| `pull-requests` | ⏭️ Skipped | No applicable resources in source repository |
 
 ---
 

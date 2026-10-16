@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-prometheus` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:19:14.969Z` | ✅ Verified | Created and verified on target. |
+| `prometheus` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:19:14.969Z` | ✅ Verified | Transferred repository "prometheus" via GitHub Enterprise Importer (GEI). |

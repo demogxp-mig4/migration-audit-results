@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-ansible` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:11:29.028Z` | ✅ Verified | Created and verified on target. |
+| `ansible` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:11:29.028Z` | ✅ Verified | Transferred repository "ansible" via GitHub Enterprise Importer (GEI). |

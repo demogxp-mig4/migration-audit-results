@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/dummy-repo-public` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:07:20.705Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public" |
+| `dummy-repo-public` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:07:20.705Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public" |

@@ -5,7 +5,7 @@
 > **Status:** ✅ complete  
 > **Source Organization:** `demogxp`  
 > **Target Organization:** `demogxp-mig4`  
-> **Duration:** 5.9s (5888ms)  
+> **Duration:** 2.9s (2944ms)  
 
 ---
 
@@ -26,5 +26,5 @@
 | Resource Name | Resource Type | Operation | Status | Verification | Notes / Discrepancies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `Default` | `actions_runner_group` | `noop` | ✅ succeeded | ✅ Verified | Runner group "Default" already matches expected configuration on target |
-| `Big-runner` | `actions_runner_group` | `create` | ✅ succeeded | ✅ Verified | Creating runner group "Big-runner" on destination |
-| `migration-demo-1361857985-runner-group` | `actions_runner_group` | `create` | ✅ succeeded | ✅ Verified | Creating runner group "migration-demo-1361857985-runner-group" on destination |
+| `Big-runner` | `actions_runner_group` | `create` | ✅ succeeded | ✅ Verified | Created runner group "Big-runner" on destination |
+| `migration-demo-1361857985-runner-group` | `actions_runner_group` | `create` | ✅ succeeded | ✅ Verified | Created runner group "migration-demo-1361857985-runner-group" on destination |

@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-release-heavy-benchmark` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:34:59.621Z` | ✅ Verified | Created and verified on target. |
+| `release-heavy-benchmark` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:34:59.621Z` | ✅ Verified | Transferred repository "release-heavy-benchmark" via GitHub Enterprise Importer (GEI) with --skip-releases; releases and assets streamed via sidecar module. |

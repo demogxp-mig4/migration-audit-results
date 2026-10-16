@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-svelte` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:07:18.844Z` | ✅ Verified | Created and verified on target. |
+| `svelte` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:07:18.844Z` | ✅ Verified | Transferred repository "svelte" via GitHub Enterprise Importer (GEI). |

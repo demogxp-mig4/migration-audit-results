@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/ghec-content-filler` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:40:09.108Z` | ✅ Verified | Reconcile repository settings: squash_merge_commit_title: "COMMIT_OR_PR_TITLE" -> "PR_TITLE", squash_merge_commit_message: "COMMIT_MESSAGES" -> "PR_BODY", merge_commit_title: "MERGE_MESSAGE" -> "PR_TITLE", merge_commit_message: "PR_TITLE" -> "PR_BODY" |
+| `ghec-content-filler` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:40:09.108Z` | ✅ Verified | Reconciled repository settings: squash_merge_commit_title: "COMMIT_OR_PR_TITLE" -> "PR_TITLE", squash_merge_commit_message: "COMMIT_MESSAGES" -> "PR_BODY", merge_commit_title: "MERGE_MESSAGE" -> "PR_TITLE", merge_commit_message: "PR_TITLE" -> "PR_BODY" |

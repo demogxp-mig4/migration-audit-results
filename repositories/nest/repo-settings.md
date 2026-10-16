@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/nest` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:46:22.355Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://nestjs.com" |
+| `nest` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:46:22.355Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://nestjs.com" |

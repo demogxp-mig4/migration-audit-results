@@ -5,7 +5,7 @@
 > **Status:** ✅ complete  
 > **Source Organization:** `demogxp`  
 > **Target Organization:** `demogxp-mig4`  
-> **Duration:** 8.0s (7960ms)  
+> **Duration:** 4.0s (3980ms)  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Module Warnings
 
-- [demogxp-mig4] Package "migration-demo-1361857985-package" is linked to repository "ghec-content-filler"; ensure repository is migrated to retain linkage.
+- Package "migration-demo-1361857985-package" is linked to repository "ghec-content-filler"; ensure repository is migrated to retain linkage.
 
 ---
 

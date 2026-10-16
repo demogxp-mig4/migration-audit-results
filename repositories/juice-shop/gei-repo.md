@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-juice-shop` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:55:54.353Z` | ✅ Verified | Created and verified on target. |
+| `juice-shop` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:55:54.353Z` | ✅ Verified | Transferred repository "juice-shop" via GitHub Enterprise Importer (GEI). |

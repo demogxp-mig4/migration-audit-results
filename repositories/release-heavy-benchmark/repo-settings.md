@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/release-heavy-benchmark` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:35:04.136Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public" |
+| `release-heavy-benchmark` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:35:04.136Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public" |

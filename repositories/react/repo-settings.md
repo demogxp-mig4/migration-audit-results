@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/react` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:11:19.085Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://react.dev" |
+| `react` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:11:19.085Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://react.dev" |

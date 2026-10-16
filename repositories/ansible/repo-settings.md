@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/ansible` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:11:32.908Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.ansible.com/" |
+| `ansible` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:11:32.908Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.ansible.com/" |

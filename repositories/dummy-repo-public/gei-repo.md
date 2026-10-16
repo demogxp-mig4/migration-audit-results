@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-dummy-repo-public` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:07:13.541Z` | ✅ Verified | Created and verified on target. |
+| `dummy-repo-public` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:07:13.541Z` | ✅ Verified | Transferred repository "dummy-repo-public" via GitHub Enterprise Importer (GEI). |

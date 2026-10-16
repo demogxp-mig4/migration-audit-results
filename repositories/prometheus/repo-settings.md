@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/prometheus` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:19:19.237Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://prometheus.io/" |
+| `prometheus` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:19:19.237Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://prometheus.io/" |

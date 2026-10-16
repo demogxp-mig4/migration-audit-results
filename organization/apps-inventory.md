@@ -21,7 +21,7 @@
 
 ### Module Warnings
 
-- [demogxp-mig4] Manual reinstallation advisory: GitHub App "hackmd-hub" must be installed on demogxp-mig4 manually.
+- Manual reinstallation advisory: GitHub App "hackmd-hub" must be installed on demogxp-mig4 manually.
 
 ---
 

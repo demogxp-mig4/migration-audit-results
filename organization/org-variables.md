@@ -5,7 +5,7 @@
 > **Status:** ✅ complete  
 > **Source Organization:** `demogxp`  
 > **Target Organization:** `demogxp-mig4`  
-> **Duration:** 1.3s (1273ms)  
+> **Duration:** 1.1s (1070ms)  
 
 ---
 

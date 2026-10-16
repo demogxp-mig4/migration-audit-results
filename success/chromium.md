@@ -72,4 +72,4 @@
 
 ## GEI Log Summary & Notes
 
-Repository transferred cleanly via GEI without errors or metadata drops.
+Repository Git history transferred via direct Git mirror-push (bypassing GEI archive size limits). Metadata rehydrated and verified via sidecar modules (`issues`: 12 items, `pull-requests`: 1 item).

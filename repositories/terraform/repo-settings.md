@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/terraform` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:33:00.341Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "http://developer.hashicorp.com/terraform" |
+| `terraform` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:33:00.341Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "http://developer.hashicorp.com/terraform" |

@@ -5,7 +5,7 @@
 > **Repository:** `demo` ➔ `demo`  
 > **Module:** `security`  
 > **Status:** ✅ complete  
-> **Duration:** 0.0s (0ms)  
+> **Duration:** 2.0s (2038ms)  
 
 ---
 
@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demo` | `repository-security-settings` | `noop` | ✅ succeeded | `2026-10-16T03:43:41.751Z` | ✅ Verified | Configuration already matches target; verified parity. |
+| `demo` | `repository-security-settings` | `update` | ✅ succeeded | `2026-10-16T04:30:51.955Z` | ✅ Verified | Updated and verified on target. |

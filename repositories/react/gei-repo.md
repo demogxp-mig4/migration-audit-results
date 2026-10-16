@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-react` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:11:15.142Z` | ✅ Verified | Created and verified on target. |
+| `react` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:11:15.142Z` | ✅ Verified | Transferred repository "react" via GitHub Enterprise Importer (GEI). |

@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/demo` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:43:38.220Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "internal" |
+| `demo` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:43:38.220Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "internal" |

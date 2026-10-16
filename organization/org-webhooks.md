@@ -21,7 +21,7 @@
 
 ### Module Warnings
 
-- [demogxp-mig4] Webhook "https://migration-demo.invalid/migration-demo-1361857985/org" has a source secret but no replacement secret provider.
+- Webhook "https://migration-demo.invalid/migration-demo-1361857985/org" has a source secret but no replacement secret provider.
 
 ---
 
@@ -29,5 +29,5 @@
 
 | Resource Name | Resource Type | Operation | Status | Verification | Notes / Discrepancies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `https://migration-demo.invalid/migration-demo-1361857985/org` | `webhook` | `create` | ✅ succeeded | ✅ Verified | Creating webhook for "https://migration-demo.invalid/migration-demo-1361857985/org" |
-| `https://httpbin.org/post` | `webhook` | `create` | ✅ succeeded | ✅ Verified | Creating webhook for "https://httpbin.org/post" |
+| `https://migration-demo.invalid/migration-demo-1361857985/org` | `webhook` | `create` | ✅ succeeded | ✅ Verified | Created webhook for "https://migration-demo.invalid/migration-demo-1361857985/org" |
+| `https://httpbin.org/post` | `webhook` | `create` | ✅ succeeded | ✅ Verified | Created webhook for "https://httpbin.org/post" |

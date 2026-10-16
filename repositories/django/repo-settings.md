@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/django` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:18:30.752Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.djangoproject.com/" |
+| `django` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:18:30.752Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.djangoproject.com/" |

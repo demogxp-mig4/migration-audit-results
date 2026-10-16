@@ -72,4 +72,4 @@
 
 ## GEI Log Summary & Notes
 
-Repository transferred cleanly via GEI without errors or metadata drops.
+Repository Git history transferred via automatic fallback Git mirror-push after GEI archive generation failure. Metadata rehydrated and verified via sidecar modules (`issues`: 10 items).

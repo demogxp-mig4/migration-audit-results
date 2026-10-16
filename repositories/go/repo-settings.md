@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/go` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:13:49.300Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://go.dev" |
+| `go` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T04:13:49.300Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://go.dev" |

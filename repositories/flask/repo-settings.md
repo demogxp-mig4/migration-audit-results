@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/flask` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:22:32.537Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://flask.palletsprojects.com" |
+| `flask` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:22:32.537Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://flask.palletsprojects.com" |

@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "runId": "migrate-1792119672217-aee41f66",
-  "generatedAt": "2026-10-16T04:38:12.312Z",
+  "generatedAt": "2026-10-16T10:04:21.199Z",
   "sourceOrg": "demogxp",
   "targetOrg": "demogxp-mig4",
   "targetResultsRepo": "migration-audit-results",
@@ -11,7 +11,7 @@
     "succeededCount": 24,
     "failedCount": 0,
     "successRatePercent": 100,
-    "durationMs": 14197508,
+    "durationMs": 14184854,
     "orgModulesSummary": {
       "org-custom-properties": {
         "status": "complete",
@@ -40,7 +40,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 30544,
+        "durationMs": 25707,
         "relativeFilePath": "organization/teams.md"
       },
       "org-variables": {
@@ -50,7 +50,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 1273,
+        "durationMs": 1070,
         "relativeFilePath": "organization/org-variables.md"
       },
       "org-secrets": {
@@ -60,7 +60,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 8150,
+        "durationMs": 5773,
         "relativeFilePath": "organization/org-secrets.md"
       },
       "org-settings": {
@@ -120,7 +120,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 10316,
+        "durationMs": 10314,
         "relativeFilePath": "organization/projects-v2.md"
       },
       "packages": {
@@ -130,7 +130,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 7960,
+        "durationMs": 3980,
         "relativeFilePath": "organization/packages.md"
       },
       "actions-runners": {
@@ -140,7 +140,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 5888,
+        "durationMs": 2944,
         "relativeFilePath": "organization/actions-runners.md"
       },
       "org-rulesets": {
@@ -150,7 +150,7 @@
         "failedOperations": 0,
         "skippedOperations": 0,
         "discrepancyCount": 0,
-        "durationMs": 698,
+        "durationMs": 349,
         "relativeFilePath": "organization/org-rulesets.md"
       },
       "post-migration-mannequins": {
@@ -188,7 +188,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -369,6 +372,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/dummy-repo-public/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-public/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-public/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-public/pull-requests.md"
         }
       }
     },
@@ -394,7 +430,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -575,6 +614,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/react/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/react/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/react/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/react/pull-requests.md"
         }
       }
     },
@@ -600,7 +672,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -781,6 +856,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/prometheus/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/prometheus/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/prometheus/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/prometheus/pull-requests.md"
         }
       }
     },
@@ -806,7 +914,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -987,6 +1098,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/flask/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/flask/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/flask/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/flask/pull-requests.md"
         }
       }
     },
@@ -1012,7 +1156,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -1193,6 +1340,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/nest/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/nest/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/nest/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/nest/pull-requests.md"
         }
       }
     },
@@ -1218,7 +1398,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -1399,6 +1582,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/svelte/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/svelte/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/svelte/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/svelte/pull-requests.md"
         }
       }
     },
@@ -1666,7 +1882,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -1847,6 +2066,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/ansible/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ansible/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ansible/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ansible/pull-requests.md"
         }
       }
     },
@@ -1872,7 +2124,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -2053,6 +2308,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/dummy-repo-private-lfs/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-private-lfs/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-private-lfs/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/dummy-repo-private-lfs/pull-requests.md"
         }
       }
     },
@@ -2078,7 +2366,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -2259,6 +2550,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/express/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/express/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/express/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/express/pull-requests.md"
         }
       }
     },
@@ -2284,7 +2608,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -2465,6 +2792,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/terraform/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/terraform/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/terraform/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/terraform/pull-requests.md"
         }
       }
     },
@@ -2490,7 +2850,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -2671,6 +3034,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/ghe-actions-migration-framework/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghe-actions-migration-framework/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghe-actions-migration-framework/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghe-actions-migration-framework/pull-requests.md"
         }
       }
     },
@@ -2696,7 +3092,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -2877,6 +3276,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/core/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/core/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/core/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/core/pull-requests.md"
         }
       }
     },
@@ -2902,7 +3334,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -3083,6 +3518,39 @@
           "discrepancyCount": 0,
           "durationMs": 910,
           "relativeFilePath": "repositories/ghec-content-filler/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghec-content-filler/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghec-content-filler/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/ghec-content-filler/pull-requests.md"
         }
       }
     },
@@ -3108,7 +3576,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -3289,6 +3760,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/migration-demo-1361857985-companion/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-companion/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-companion/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-companion/pull-requests.md"
         }
       }
     },
@@ -3314,7 +3818,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -3495,6 +4002,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/migration-demo-1361857985-fork/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-fork/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-fork/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/migration-demo-1361857985-fork/pull-requests.md"
         }
       }
     },
@@ -3503,7 +4043,7 @@
       "targetRepo": "demo",
       "status": "succeeded",
       "relativeFilePath": "success/demo.md",
-      "durationMs": 510402,
+      "durationMs": 512440,
       "stagesRun": [
         "gei-repo",
         "repo-variables",
@@ -3520,7 +4060,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -3644,7 +4187,7 @@
           "failedOperations": 0,
           "skippedOperations": 0,
           "discrepancyCount": 0,
-          "durationMs": 0,
+          "durationMs": 2038,
           "relativeFilePath": "repositories/demo/security.md"
         },
         "deploy-keys": {
@@ -3701,6 +4244,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/demo/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/demo/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/demo/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/demo/pull-requests.md"
         }
       }
     },
@@ -3726,7 +4302,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -3907,6 +4486,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/juice-shop/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/juice-shop/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/juice-shop/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/juice-shop/pull-requests.md"
         }
       }
     },
@@ -3932,7 +4544,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -4113,6 +4728,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/cpython/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/cpython/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/cpython/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/cpython/pull-requests.md"
         }
       }
     },
@@ -4138,7 +4786,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -4319,6 +4970,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/go/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/go/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/go/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/go/pull-requests.md"
         }
       }
     },
@@ -4344,7 +5028,10 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "releases",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -4525,6 +5212,39 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/django/discussions.md"
+        },
+        "releases": {
+          "moduleId": "releases",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/django/releases.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/django/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/django/pull-requests.md"
         }
       }
     },
@@ -4551,7 +5271,9 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -4743,6 +5465,28 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/fastify/discussions.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/fastify/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/fastify/pull-requests.md"
         }
       }
     },
@@ -5011,7 +5755,9 @@
         "collaborators",
         "lfs",
         "autolinks",
-        "discussions"
+        "discussions",
+        "issues",
+        "pull-requests"
       ],
       "verified": true,
       "discrepancyCount": 0,
@@ -5203,6 +5949,28 @@
           "discrepancyCount": 0,
           "durationMs": 0,
           "relativeFilePath": "repositories/release-heavy-benchmark/discussions.md"
+        },
+        "issues": {
+          "moduleId": "issues",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/release-heavy-benchmark/issues.md"
+        },
+        "pull-requests": {
+          "moduleId": "pull-requests",
+          "status": "skipped",
+          "totalOperations": 0,
+          "succeededOperations": 0,
+          "failedOperations": 0,
+          "skippedOperations": 0,
+          "discrepancyCount": 0,
+          "durationMs": 0,
+          "relativeFilePath": "repositories/release-heavy-benchmark/pull-requests.md"
         }
       }
     }

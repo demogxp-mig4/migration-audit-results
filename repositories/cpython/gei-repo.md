@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-cpython` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:03:50.596Z` | ✅ Verified | Created and verified on target. |
+| `cpython` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:03:50.596Z` | ✅ Verified | Transferred repository "cpython" via GitHub Enterprise Importer (GEI). |

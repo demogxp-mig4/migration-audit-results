@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `#1 Bump baseline-browser-mapping from 2.8.6 to 2.11.27 in /ui/webui/resources/tools/codemods` | `pull-request` | `create` | ✅ succeeded | `2026-10-16T03:10:18.468Z` | ✅ Verified | Recreate open pull request #1 "Bump baseline-browser-mapping from 2.8.6 to 2.11.27 in /ui/webui/resources/tools/codemods". |
+| `#1 Bump baseline-browser-mapping from 2.8.6 to 2.11.27 in /ui/webui/resources/tools/codemods` | `pull-request` | `create` | ✅ succeeded | `2026-10-16T03:10:18.468Z` | ✅ Verified | Recreated open pull request #1 "Bump baseline-browser-mapping from 2.8.6 to 2.11.27 in /ui/webui/resources/tools/codemods". |

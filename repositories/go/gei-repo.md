@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-go` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:13:45.033Z` | ✅ Verified | Created and verified on target. |
+| `go` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:13:45.033Z` | ✅ Verified | Transferred repository "go" via GitHub Enterprise Importer (GEI). |

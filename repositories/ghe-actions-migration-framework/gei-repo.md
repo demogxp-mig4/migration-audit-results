@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-ghe-actions-migration-framework` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:20:29.678Z` | ✅ Verified | Created and verified on target. |
+| `ghe-actions-migration-framework` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:20:29.678Z` | ✅ Verified | Transferred repository "ghe-actions-migration-framework" via GitHub Enterprise Importer (GEI). |

@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/core` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:33:38.440Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://vuejs.org/" |
+| `core` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:33:38.440Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://vuejs.org/" |

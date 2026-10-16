@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-dummy-repo-private-lfs` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:15:29.899Z` | ✅ Verified | Created and verified on target. |
+| `dummy-repo-private-lfs` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:15:29.899Z` | ✅ Verified | Transferred repository "dummy-repo-private-lfs" via GitHub Enterprise Importer (GEI). |

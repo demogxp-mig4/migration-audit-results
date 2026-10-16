@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-django` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:18:24.029Z` | ✅ Verified | Created and verified on target. |
+| `django` | `repository` | `create` | ✅ succeeded | `2026-10-16T04:18:24.029Z` | ✅ Verified | Transferred repository "django" via GitHub Enterprise Importer (GEI). |

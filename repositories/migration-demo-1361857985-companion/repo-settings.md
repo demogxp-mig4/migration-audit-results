@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/migration-demo-1361857985-companion` | `repository-settings` | `noop` | ✅ succeeded | `2026-10-16T03:42:48.532Z` | ✅ Verified | Configuration already matches target; verified parity. |
+| `migration-demo-1361857985-companion` | `repository-settings` | `noop` | ✅ succeeded | `2026-10-16T03:42:48.532Z` | ✅ Verified | Configuration already matches target; verified parity. |

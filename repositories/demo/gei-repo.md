@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-demo` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:43:31.485Z` | ✅ Verified | Created and verified on target. |
+| `demo` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:43:31.485Z` | ✅ Verified | Transferred repository "demo" via GitHub Enterprise Importer (GEI). |

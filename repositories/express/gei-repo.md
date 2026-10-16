@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-express` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:14.569Z` | ✅ Verified | Created and verified on target. |
+| `express` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:22:14.569Z` | ✅ Verified | Transferred repository "express" via GitHub Enterprise Importer (GEI). |

@@ -21,7 +21,7 @@
 
 ### Module Warnings
 
-- [demogxp-mig4] In GitHub Enterprise Cloud with Enterprise Managed Users (GHEC-EMU), managed users cannot add personal or secondary email addresses to their enterprise accounts. Consequently, Git commits authored using non-primary or legacy email addresses will remain attributed to author strings rather than linked to the user’s EMU profile. Only commits authored using the user’s primary IdP-linked email address can be attributed to the managed user account. (DEC-013)
+- In GitHub Enterprise Cloud with Enterprise Managed Users (GHEC-EMU), managed users cannot add personal or secondary email addresses to their enterprise accounts. Consequently, Git commits authored using non-primary or legacy email addresses will remain attributed to author strings rather than linked to the user’s EMU profile. Only commits authored using the user’s primary IdP-linked email address can be attributed to the managed user account. (DEC-013)
 
 ---
 

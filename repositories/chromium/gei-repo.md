@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `mirror-push-chromium` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:09:58.470Z` | ✅ Verified | Created and verified on target. |
+| `chromium` | `repository` | `create` | ✅ succeeded | `2026-10-16T03:09:58.470Z` | ✅ Verified | Transferred repository "chromium" via direct Git mirror-push; metadata rehydrated via sidecar modules. |

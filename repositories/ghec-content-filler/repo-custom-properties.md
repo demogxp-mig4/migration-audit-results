@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `ghec-content-filler` | `custom-property-values` | `update` | ✅ succeeded | `2026-10-16T03:40:09.889Z` | ✅ Verified | Updating 2 custom property value(s) (migration-demo-1361857985-stage, open_source) on ghec-content-filler |
+| `ghec-content-filler` | `custom-property-values` | `update` | ✅ succeeded | `2026-10-16T03:40:09.889Z` | ✅ Verified | Updated 2 custom property value(s) (migration-demo-1361857985-stage, open_source) on ghec-content-filler |

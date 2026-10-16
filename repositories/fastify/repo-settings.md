@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/fastify` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:06:40.663Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.fastify.dev" |
+| `fastify` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:06:40.663Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://www.fastify.dev" |

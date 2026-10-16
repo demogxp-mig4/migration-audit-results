@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `migration-demo-discussion` | `repository_discussion` | `create` | ✅ succeeded | `2026-10-16T03:40:17.298Z` | ✅ Verified | Rehydrating discussion "migration-demo-discussion" under category "General" |
+| `migration-demo-discussion` | `repository_discussion` | `create` | ✅ succeeded | `2026-10-16T03:40:17.298Z` | ✅ Verified | Rehydrated discussion "migration-demo-discussion" under category "General" |

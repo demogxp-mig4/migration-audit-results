@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Verification | Notes / Discrepancies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4` | `org-setting` | `update` | ✅ succeeded | ✅ Verified | Reconciling 1 organization settings for 'demogxp-mig4' |
+| `demogxp-mig4` | `org-setting` | `update` | ✅ succeeded | ✅ Verified | Reconciled 1 organization settings for 'demogxp-mig4' |

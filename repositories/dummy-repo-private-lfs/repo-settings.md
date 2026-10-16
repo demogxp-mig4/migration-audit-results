@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/dummy-repo-private-lfs` | `repository-settings` | `noop` | ✅ succeeded | `2026-10-16T03:15:33.530Z` | ✅ Verified | Configuration already matches target; verified parity. |
+| `dummy-repo-private-lfs` | `repository-settings` | `noop` | ✅ succeeded | `2026-10-16T03:15:33.530Z` | ✅ Verified | Configuration already matches target; verified parity. |

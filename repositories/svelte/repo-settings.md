@@ -25,4 +25,4 @@
 
 | Resource Name | Resource Type | Operation | Status | Completed At | Verification | Notes / Discrepancy Diff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `demogxp-mig4/svelte` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:07:24.515Z` | ✅ Verified | Reconcile repository settings: visibility: "private" -> "public", homepage: "" -> "https://svelte.dev" |
+| `svelte` | `repository-settings` | `update` | ✅ succeeded | `2026-10-16T03:07:24.515Z` | ✅ Verified | Reconciled repository settings: visibility: "private" -> "public", homepage: "" -> "https://svelte.dev" |

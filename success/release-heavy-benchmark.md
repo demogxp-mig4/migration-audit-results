@@ -31,6 +31,8 @@
 | `lfs` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/release-heavy-benchmark/lfs.md) |
 | `autolinks` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/release-heavy-benchmark/autolinks.md) |
 | `discussions` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/release-heavy-benchmark/discussions.md) |
+| `issues` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/release-heavy-benchmark/issues.md) |
+| `pull-requests` | ⏭️ skipped | 0 | 0 | 0 | 0 | 0 | 0.0s | [View Items](../repositories/release-heavy-benchmark/pull-requests.md) |
 
 ---
 
@@ -55,6 +57,8 @@
 | `lfs` | ⏭️ Skipped | No applicable resources in source repository |
 | `autolinks` | ⏭️ Skipped | No applicable resources in source repository |
 | `discussions` | ⏭️ Skipped | No applicable resources in source repository |
+| `issues` | ⏭️ Skipped | No applicable resources in source repository |
+| `pull-requests` | ⏭️ Skipped | No applicable resources in source repository |
 
 ---
 
@@ -68,4 +72,4 @@
 
 ## GEI Log Summary & Notes
 
-Repository transferred cleanly via GEI without errors or metadata drops.
+Repository Git history and core metadata transferred via GitHub Enterprise Importer (GEI) with `--skip-releases` enabled for large release payloads. Sidecar `releases` module streamed and verified 42 releases and 91 release assets (133 items) with 0 discrepancies.
